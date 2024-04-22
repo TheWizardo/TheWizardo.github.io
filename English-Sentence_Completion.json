@@ -1,0 +1,153 @@
+[
+    {
+        "question": {
+            "text": "She was so excited that she couldn't help but _______ when she heard the news."
+        },
+        "options": [
+            "laugh",
+            "cry",
+            "shout",
+            "whisper"
+        ],
+        "answer": 0,
+        "explanation": [
+            "To express excitement or joy, one would likely laugh."
+        ]
+    },
+    {
+        "question": {
+            "text": "The artist's work was so _______ that it left everyone in awe."
+        },
+        "options": [
+            "boring",
+            "inspiring",
+            "ordinary",
+            "dull"
+        ],
+        "answer": 1,
+        "explanation": [
+            "The word 'inspiring' means causing admiration or feeling inspired."
+        ]
+    },
+    {
+        "question": {
+            "text": "It is essential to _______ a balanced diet to maintain good health."
+        },
+        "options": [
+            "avoid",
+            "enjoy",
+            "ignore",
+            "consume"
+        ],
+        "answer": 3,
+        "explanation": [
+            "'Consume' means to eat or drink something.",
+            "A balanced diet is important for maintaining good health."
+        ]
+    },
+    {
+        "question": {
+            "text": "The detective was able to _______ the mystery after gathering all the clues."
+        },
+        "options": [
+            "solve",
+            "create",
+            "ignore",
+            "hide"
+        ],
+        "answer": 0,
+        "explanation": [
+            "To solve means to find an answer or explanation for a mystery."
+        ]
+    },
+    {
+        "question": {
+            "text": "Despite facing many challenges, she remained _______ throughout the difficult times."
+        },
+        "options": [
+            "optimistic",
+            "pessimistic",
+            "neutral",
+            "confused"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Being optimistic means having a positive outlook."
+        ]
+    },
+    {
+        "question": {
+            "text": "His actions were so _______ that everyone questioned his motives."
+        },
+        "options": [
+            "transparent",
+            "ambiguous",
+            "clear",
+            "open"
+        ],
+        "answer": 1,
+        "explanation": [
+            "Ambiguous means unclear or vague, causing confusion."
+        ]
+    },
+    {
+        "question": {
+            "text": "The novel's plot was so _______ that it kept readers on the edge of their seats."
+        },
+        "options": [
+            "predictable",
+            "complex",
+            "simple",
+            "boring"
+        ],
+        "answer": 1,
+        "explanation": [
+            "A complex plot is intricate and not easily understood, keeping readers engaged."
+        ]
+    },
+    {
+        "question": {
+            "text": "She was _______ of her accomplishments and never hesitated to share them."
+        },
+        "options": [
+            "proud",
+            "ashamed",
+            "humble",
+            "embarrassed"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Being proud means feeling satisfaction and pleasure from one's achievements."
+        ]
+    },
+    {
+        "question": {
+            "text": "The scientist conducted several experiments to _______ his hypothesis."
+        },
+        "options": [
+            "prove",
+            "disprove",
+            "support",
+            "reject"
+        ],
+        "answer": 0,
+        "explanation": [
+            "To prove means to demonstrate the truth or validity of something."
+        ]
+    },
+    {
+        "question": {
+            "text": "Despite the criticism, he remained _______ and continued pursuing his goals."
+        },
+        "options": [
+            "resilient",
+            "fragile",
+            "weak",
+            "doubtful"
+        ],
+        "answer": 0,
+        "explanation": [
+            "Being resilient means being able to recover quickly from difficulties."
+        ]
+    }
+]
