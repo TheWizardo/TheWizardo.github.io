@@ -2,6 +2,8 @@
     "חשיבה כמותית": {
         "name": "חשיבה כמותית",
         "icon": "function-variant",
+        "time": 20,
+        "questionCount": 20,
         "subsubjects": [
             {
                 "name": "שברים",
@@ -10,7 +12,7 @@
                 "icon": "fraction-one-half"
             },
             {
-                "name": "חזקות",
+                "name": "שורשים וחזקות",
                 "isTestSupported": true,
                 "isLearnSupported": true,
                 "icon": "exponent"
@@ -34,12 +36,6 @@
                 "icon": "greater-than-or-equal"
             },
             {
-                "name": "כפל מקוצר",
-                "isTestSupported": false,
-                "isLearnSupported": false,
-                "icon": "asterisk"
-            },
-            {
                 "name": "ערך מוחלט",
                 "isTestSupported": false,
                 "isLearnSupported": false,
@@ -58,7 +54,7 @@
                 "icon": "unicorn-variant"
             },
             {
-                "name": "אותיות ומספרים",
+                "name": "תרגילים באותיות",
                 "isTestSupported": false,
                 "isLearnSupported": false,
                 "icon": "alpha"
@@ -124,7 +120,7 @@
                 "icon": "chart-line"
             },
             {
-                "name": "ישרים וזוויות",
+                "name": "ישרים",
                 "isTestSupported": false,
                 "isLearnSupported": false,
                 "icon": "angle-acute"
@@ -170,6 +166,8 @@
     "חשיבה מילולית": {
         "name": "חשיבה מילולית",
         "icon": "script-text",
+        "time": 20,
+        "questionCount": 23,
         "subsubjects": [
             {
                 "name": "השלמת משפטים",
@@ -190,46 +188,10 @@
                 "icon": "chat-plus-outline"
             },
             {
-                "name": "הבנת משפט",
+                "name": "הבנה והסקה",
                 "isTestSupported": false,
                 "isLearnSupported": false,
                 "icon": "chat-question-outline"
-            },
-            {
-                "name": "הבנת פסקה",
-                "isTestSupported": false,
-                "isLearnSupported": false,
-                "icon": "comment-question-outline"
-            },
-            {
-                "name": "מחזק-מחליש",
-                "isTestSupported": false,
-                "isLearnSupported": false,
-                "icon": "arm-flex"
-            },
-            {
-                "name": "משלים והשוואות",
-                "isTestSupported": false,
-                "isLearnSupported": false,
-                "icon": "square-opacity"
-            },
-            {
-                "name": "חשיבה מדעית",
-                "isTestSupported": false,
-                "isLearnSupported": false,
-                "icon": "flask-outline"
-            },
-            {
-                "name": "כללים ושיבוצים",
-                "isTestSupported": false,
-                "isLearnSupported": false,
-                "icon": "puzzle-outline"
-            },
-            {
-                "name": "טענות",
-                "isTestSupported": false,
-                "isLearnSupported": false,
-                "icon": "account-voice"
             },
             {
                 "name": "הבנת הנקרא",
@@ -246,29 +208,31 @@
         ]
     },
     "אנגלית": {
-        "name": "אנגלית",
+        "name": "English",
         "icon": "alphabetical-variant",
+        "time": 20,
+        "questionCount": 22,
         "subsubjects": [
             {
-                "name": "השלמת משפטים",
+                "name": "Sentence Completions",
                 "isTestSupported": true,
                 "isLearnSupported": true,
                 "icon": "progress-question"
             },
             {
-                "name": "ניסוח משפטים מחדש",
+                "name": "Restatements",
                 "isTestSupported": true,
                 "isLearnSupported": true,
                 "icon": "autorenew"
             },
             {
-                "name": "מילים",
+                "name": "Vocabulary",
                 "isTestSupported": true,
                 "isLearnSupported": true,
                 "icon": "chat-plus-outline"
             },
             {
-                "name": "הבנת הנקרא",
+                "name": "Reading Comprehension",
                 "isTestSupported": false,
                 "isLearnSupported": false,
                 "icon": "text-box-search-outline"
