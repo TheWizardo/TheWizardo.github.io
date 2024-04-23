@@ -1,0 +1,182 @@
+[
+    {
+        "question": {
+            "text": "$| -5 |$",
+            "given": null
+        },
+        "answer": 0,
+        "options": [
+            "5",
+            "-5",
+            "0",
+            "1"
+        ],
+        "explanation": [
+            "The absolute value of -5 is 5."
+        ]
+    },
+    {
+        "question": {
+            "text": "$| 7 - 10 |$",
+            "given": null
+        },
+        "answer": 1,
+        "options": [
+            "3",
+            "-3",
+            "10",
+            "7"
+        ],
+        "explanation": [
+            "The absolute value of the difference between 7 and 10 is 3."
+        ]
+    },
+    {
+        "question": {
+            "text": "$| -3 + 4 |$",
+            "given": null
+        },
+        "answer": 0,
+        "options": [
+            "1",
+            "-1",
+            "7",
+            "-7"
+        ],
+        "explanation": [
+            "The absolute value of the sum of -3 and 4 is 1."
+        ]
+    },
+    {
+        "question": {
+            "text": "$|-6| + |-8|$",
+            "given": null
+        },
+        "answer": 3,
+        "options": [
+            "14",
+            "-14",
+            "2",
+            "14"
+        ],
+        "explanation": [
+            "The absolute value of -6 is 6, and the absolute value of -8 is 8.",
+            "So, the sum of their absolute values is 14."
+        ]
+    },
+    {
+        "question": {
+            "text": "$|5 - 12| - |8 - 3|$",
+            "given": null
+        },
+        "answer": 2,
+        "options": [
+            "10",
+            "-10",
+            "4",
+            "-4"
+        ],
+        "explanation": [
+            "The absolute value of the difference between 5 and 12 is 7.",
+            "The absolute value of the difference between 8 and 3 is 5.",
+            "So, the difference between these two absolute values is 2."
+        ]
+    },
+    {
+        "question": {
+            "text": "$|2x - 5| = 11$",
+            "given": null
+        },
+        "answer": 1,
+        "options": [
+            "$x = -\\frac{3}{2}$",
+            "$x = \\frac{8}{1}$",
+            "$x = \\frac{3}{1}$",
+            "$x = -\\frac{8}{1}$"
+        ],
+        "explanation": [
+            "To solve for x, we have two cases:",
+            "1) $2x - 5 = 11$, which gives $x = \\frac{8}{1}$",
+            "2) $-(2x - 5) = 11$, which gives $x = -\\frac{3}{2}$",
+            "So, the correct answers are $x = \\frac{8}{1}$ and $x = -\\frac{3}{2}$."
+        ]
+    },
+    {
+        "question": {
+            "text": "$|3x + 7| < 10$",
+            "given": null
+        },
+        "answer": 0,
+        "options": [
+            "$x < -\\frac{17}{3}$",
+            "$x < \\frac{3}{1}$",
+            "$x > \\frac{3}{1}$",
+            "$x > -\\frac{17}{3}$"
+        ],
+        "explanation": [
+            "To solve for x, we have two cases:",
+            "1) $3x + 7 < 10$, which gives $x < \\frac{3}{1}$",
+            "2) $-(3x + 7) < 10$, which gives $x > -\\frac{17}{3}$",
+            "So, the correct answer is $x < -\\frac{17}{3}$ or $x > \\frac{3}{1}$."
+        ]
+    },
+    {
+        "question": {
+            "text": "$|4 - 2x| = 3$",
+            "given": null
+        },
+        "answer": 3,
+        "options": [
+            "$x = \\frac{7}{2}$",
+            "$x = \\frac{5}{2}$",
+            "$x = -\\frac{5}{2}$",
+            "$x = -\\frac{1}{2}$"
+        ],
+        "explanation": [
+            "To solve for x, we have two cases:",
+            "1) $4 - 2x = 3$, which gives $x = -\\frac{1}{2}$",
+            "2) $-(4 - 2x) = 3$, which gives $x = -\\frac{5}{2}$",
+            "So, the correct answers are $x = -\\frac{1}{2}$ and $x = -\\frac{5}{2}$."
+        ]
+    },
+    {
+        "question": {
+            "text": "$|5x - 2| > 7$",
+            "given": null
+        },
+        "answer": 0,
+        "options": [
+            "$x < -\\frac{9}{5}$ or $x > \\frac{9}{5}$",
+            "$x < -\\frac{9}{5}$ and $x > \\frac{9}{5}$",
+            "$x < \\frac{9}{5}$ or $x > -\\frac{9}{5}$",
+            "$x < \\frac{9}{5}$ and $x > -\\frac{9}{5}$"
+        ],
+        "explanation": [
+            "To solve for x, we have two cases:",
+            "1) $5x - 2 > 7$, which gives $x > \\frac{9}{5}$",
+            "2) $-(5x - 2) > 7$, which gives $x < -\\frac{9}{5}$",
+            "So, the correct answer is $x < -\\frac{9}{5}$ or $x > \\frac{9}{5}$."
+        ]
+    },
+    {
+        "question": {
+            "text": "$|6x + 4| - |2x - 1| = 5$",
+            "given": null
+        },
+        "answer": 3,
+        "options": [
+            "$x = \\frac{3}{4}$",
+            "$x = -\\frac{3}{4}$",
+            "$x = -\\frac{1}{4}$",
+            "$x = \\frac{1}{4}$"
+        ],
+        "explanation": [
+            "To solve for x, we have four cases based on the sign combinations of the expressions inside the absolute values:",
+            "1) $(6x + 4) - (2x - 1) = 5$, which gives $x = \\frac{1}{4}$",
+            "2) $(6x + 4) - -(2x - 1) = 5$, which gives $x = \\frac{3}{4}$",
+            "3) $-(6x + 4) - (2x - 1) = 5$, which gives $x = -\\frac{3}{4}$",
+            "4) $-(6x + 4) - -(2x - 1) = 5$, which gives $x = -\\frac{1}{4}$",
+            "So, the correct answer is $x = \\frac{1}{4}$."
+        ]
+    }
+]
