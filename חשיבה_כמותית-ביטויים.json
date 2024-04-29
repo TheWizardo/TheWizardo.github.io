@@ -127,7 +127,7 @@
             "נציב 3=x בתשובות, ונפסול את אלו שערכן אינו 4.",
             "**דרך ב' - פתרון אלגברי:**",
             "הביטוי הנתון מורכב מחיבור בין שתי מכפלות. הביטוי (1-x) משותף לשתי המכפלות, ולכן נוציא אותו כגורם משותף:",
-            "$x\\left(x-1\\right)-\\left(x-1\\right)\\left(x-2\\right)=\\left(x-1\\right)\\left[x-\\left(x-2\\right)\\right]$",
+            "$x \\left( x - 1 \\right) - \\left( x - 1 \\right) \\left( x - 2 \\right) = \\left( x - 1 \\right) \\left[ x - \\left( x - 2 \\right) \\right]$",
             "נכנס איברים דומים בסוגריים הימניים המרובעים:",
             "$\\left({x-l}\\right)\\bigl[{x-(x-2)}\\bigr]=\\left({x-1}\\right)\\bigl({x-x}+2\\bigr)=\\bigl({x-1}\\right)\\cdot2=2{x}-2$",
             "התשובה הנכונה היא **(3)**."
