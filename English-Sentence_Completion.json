@@ -1,6 +1,6 @@
 [
     {
-        "question": {
+        "questionText": {
             "text": "She was so excited that she couldn't help but _______ when she heard the news."
         },
         "options": [
@@ -15,7 +15,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "The artist's work was so _______ that it left everyone in awe."
         },
         "options": [
@@ -30,7 +30,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "It is essential to _______ a balanced diet to maintain good health."
         },
         "options": [
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "The detective was able to _______ the mystery after gathering all the clues."
         },
         "options": [
@@ -61,7 +61,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "Despite facing many challenges, she remained _______ throughout the difficult times."
         },
         "options": [
@@ -76,8 +76,8 @@
         ]
     },
     {
-        "question": {
-            "text": "His actions were so _______ that everyone questioned his motives."
+        "questionText": {
+            "text": "His actions were so _______ that everyone questionTexted his motives."
         },
         "options": [
             "transparent",
@@ -91,7 +91,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "The novel's plot was so _______ that it kept readers on the edge of their seats."
         },
         "options": [
@@ -106,7 +106,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "She was _______ of her accomplishments and never hesitated to share them."
         },
         "options": [
@@ -121,7 +121,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "The scientist conducted several experiments to _______ his hypothesis."
         },
         "options": [
@@ -136,7 +136,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "Despite the criticism, he remained _______ and continued pursuing his goals."
         },
         "options": [

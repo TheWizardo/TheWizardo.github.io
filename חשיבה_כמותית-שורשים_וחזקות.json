@@ -1,6 +1,6 @@
 [
     {
-        "question": {
+        "questionText": {
             "text": "$\\sqrt{2\\sqrt{2}}=?$",
             "given": null
         },
@@ -22,7 +22,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "$8^x\\cdot4^x\\cdot2^x=?$",
             "given": null
         },
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "$\\sqrt{72}=?$",
             "given": null
         },
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "$\\frac{9^2\\cdot3^6}{27}=?$",
             "given": null
         },
@@ -89,7 +89,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "$\\frac{\\sqrt{8}+\\sqrt{2}}{\\sqrt{8}-\\sqrt{2}}=?$",
             "given": null
         },
@@ -109,7 +109,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "$\\frac{\\sqrt{2}}{1+\\sqrt{2}}=?$",
             "given": null
         },
@@ -136,7 +136,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "$2^x\\cdot2^{-x}=?$",
             "given": "$(0 < x)$"
         },
@@ -155,7 +155,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "נתון:$a\\neq0 , y=a^a$אם נגדיל את a פי 2, אזי y יגדל פי -",
             "given": null
         },
@@ -185,7 +185,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "נתון:$3^{n+1}=243\\\\n=?$",
             "given": null
         },
@@ -208,7 +208,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "$(\\frac{3^7-3^6}{2})^2=?$",
             "given": null
         },
@@ -230,7 +230,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "לכל n, הביטוי:$2^n-2^{n-1}$שווה ל-",
             "given": null
         },
@@ -253,7 +253,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "$(\\sqrt{\\frac{4}{9}}-\\frac{4}{9})^2=?$",
             "given": null
         },
@@ -276,7 +276,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "נתון:$\\sqrt{x^2}=2$x יכול להיות שווה ל-",
             "given": null
         },
@@ -298,7 +298,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "$\\sqrt{19a}\\cdot\\sqrt{19b}=?$",
             "given": null
         },
@@ -323,9 +323,9 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "נתון:$\\frac{2^n}{2n}=?$",
-            "given": "$1<n$"
+            "given": "$1 < n$"
         },
         "answer": 2,
         "options": [
@@ -348,7 +348,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "$(\\frac{4}{9})^{-6}\\cdot\\frac{8^5}{27^4}=?$",
             "given": null
         },
@@ -370,7 +370,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "x ו-y הם שני מספרים שאינם שליליים.\nאיזה תנאי נוסף צריך להתקיים עבור x ו-y כדי שהשיווין$\\sqrt{x}+\\sqrt{y}=\\sqrt{x+y}$יהיה נכון **תמיד**?",
             "given": null
         },
@@ -392,7 +392,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "נתון: $x < 0$\nאיזה מהביטויים הבאים הוא **הקטן** ביותר?",
             "given": null
         },

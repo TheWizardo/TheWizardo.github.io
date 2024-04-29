@@ -1,6 +1,6 @@
 [
     {
-        "question": {
+        "questionText": {
             "text": "נתונה הסדרה הבאה:$1,\\frac{1}{2},\\frac{1}{4},\\frac{1}{8}\\dots$\n איזו מהטענות הבאות **אינה** נכונה?",
             "given": null
         },
@@ -22,7 +22,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "$\\frac{1}{\\frac{2}{\\frac{3}{4}}}=?$",
             "given": null
         },
@@ -45,7 +45,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "$\\frac{1}{5}+\\frac{1}{4}-\\frac{1}{3}=?$",
             "given": null
         },
@@ -65,7 +65,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "איזה מהמספרים הוא **הקטן** ביותר?",
             "given": null
         },
@@ -87,7 +87,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "$\\frac{5}{3}\\cdot\\frac{4}{7}\\cdot\\frac{3}{2}\\cdot\\frac{14}{5}=?$",
             "given": null
         },
@@ -106,7 +106,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "נתון:$\\frac{3}{4}:\\frac{5}{2}=\\frac{x}{10}$$x=?$",
             "given": null
         },
@@ -128,7 +128,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "נתון: n הוא מספר שלם חיובי.\n$\\frac{n}{12}$ הוא שבר מצומצם שערכו קטן מ-1.\nכמה ערכי n שונים מקיימים את הנתון?",
             "given": null
         },

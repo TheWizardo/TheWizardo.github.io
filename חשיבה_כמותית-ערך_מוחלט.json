@@ -1,6 +1,6 @@
 [
     {
-        "question": {
+        "questionText": {
             "text": "$| -5 | = ?$",
             "given": null
         },
@@ -16,7 +16,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "$| 7 - 10 | = ?$",
             "given": null
         },
@@ -32,7 +32,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "$| -3 + 4 | = ?$",
             "given": null
         },
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "$| -6 | + | -8 | = ?$",
             "given": null
         },
@@ -65,7 +65,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "$|5 - 12| - |8 - 3| = ?",
             "given": null
         },
@@ -83,7 +83,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "$|2x - 5| = 11 \\\\ x = ?$",
             "given": null
         },
@@ -102,7 +102,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "$|3x + 7| < 10$",
             "given": null
         },
@@ -121,7 +121,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "$|4 - 2x| = 3 \\\\ x = ?$",
             "given": null
         },
@@ -140,7 +140,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "$|5x - 2| > 7$",
             "given": null
         },
@@ -159,7 +159,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "$|6x + 4| - |2x - 1| = 5 \\\\ x = ?$",
             "given": null
         },

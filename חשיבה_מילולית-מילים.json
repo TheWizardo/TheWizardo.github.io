@@ -1,6 +1,6 @@
 [
     {
-        "question": {
+        "questionText": {
             "text": "גָּדִיד"
         },
         "answer": 0,
@@ -16,7 +16,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "גַּמְלוֹנִי"
         },
         "answer": 2,
@@ -32,7 +32,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "מַלְעִיז"
         },
         "answer": 0,
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "הִתְהוֹלְלוּת"
         },
         "answer": 1,
@@ -64,7 +64,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "זַג"
         },
         "answer": 2,
@@ -80,7 +80,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "יְשִׁימוֹן"
         },
         "answer": 3,
@@ -96,7 +96,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "כֹּרַח"
         },
         "answer": 0,
@@ -112,7 +112,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "מִזְעָר"
         },
         "answer": 0,
@@ -128,7 +128,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "מֵלִיץ"
         },
         "answer": 1,
@@ -144,7 +144,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "מְסֹאָב"
         },
         "answer": 2,
@@ -160,7 +160,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "מְפֹרָז"
         },
         "answer": 0,
@@ -176,7 +176,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "נֶאֱלָח"
         },
         "answer": 2,

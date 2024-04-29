@@ -1,6 +1,6 @@
 [
     {
-        "question": {
+        "questionText": {
             "text": "$-(\\frac{1}{a-1})=?$",
             "given": "$(a\\neq\\pm 1)$"
         },
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "$(x+1)+(x+1)^2=?$",
             "given": null
         },
@@ -51,7 +51,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "איזה מן הביטויים הבאים הוא מספר קבוע, שאינו תלוי ב-n",
             "given": "$(n\\neq 0)$"
         },
@@ -80,7 +80,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "בעבור כל x,$2[(x+5)-2]-2x+4=?$",
             "given": null
         },
@@ -109,7 +109,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "$x(x-1)-(x-1)(x-2)=?$",
             "given": null
         },
@@ -134,7 +134,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "נתון:\nבעבור איזה מהערכים של x יהיה ערך הביטוי $\\frac{a+x}{a-x}$**הקטן ביותר**?",
             "given": "$1 < a \\\\ x\\neq a$"
         },
@@ -163,7 +163,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "נתון:\nאיזה מהביטויים הבאים שווה לביטוי$(\\frac{x^2}{\\pi x}+2x)\\cdot2\\cdot(x^{-1})$",
             "given": "$x\\neq 0$"
         },
@@ -190,7 +190,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "נתון:$\\frac{2}{\\frac{1}{x+1}+\\frac{1}{x-1}}=?$",
             "given": "$1 < x$"
         },
@@ -218,7 +218,7 @@
         ]
     },
     {
-        "question": {
+        "questionText": {
             "text": "ערכו של איזה מהביטויים הבאים שווה בהכרח לביטוי$12a^2-14ab-10b^2$",
             "given": null
         },
