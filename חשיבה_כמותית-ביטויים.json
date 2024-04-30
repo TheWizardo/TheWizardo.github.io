@@ -127,7 +127,7 @@
             "נציב 3=x בתשובות, ונפסול את אלו שערכן אינו 4.",
             "**דרך ב' - פתרון אלגברי:**",
             "הביטוי הנתון מורכב מחיבור בין שתי מכפלות. הביטוי (1-x) משותף לשתי המכפלות, ולכן נוציא אותו כגורם משותף:",
-            "$x \\left( x - 1 \\right) - \\left( x - 1 \\right) \\left( x - 2 \\right) = \\left( x - 1 \\right) \\left[ x - \\left( x - 2 \\right) \\right]$",
+            "$x(x-1)-(x-1)(x-2)=(x-1)[x-(x-2)]$",
             "נכנס איברים דומים בסוגריים הימניים המרובעים:",
             "$\\left({x-l}\\right)\\bigl[{x-(x-2)}\\bigr]=\\left({x-1}\\right)\\bigl({x-x}+2\\bigr)=\\bigl({x-1}\\right)\\cdot2=2{x}-2$",
             "התשובה הנכונה היא **(3)**."
@@ -181,7 +181,7 @@
             "נפשט את הביטוי הימני:",
             "$2\\cdot{x}^{-1}=2\\cdot{\\frac{1}{x}}={\\frac{2}{x}}$",
             "נכפול את הביטויים שקיבלנו ונפתח את הסוגריים:",
-            "$\\left({\\frac{x}{\\pi}}+2{x}\\right){\\frac{2}{x}}={\\frac{\\cancel{X}}{\\pi}}\\cdot{\\frac{2}{\\cancel{x}}}+2\\cancel{x}\\cdot\\frac{2}{\\cancel{x}}={\\frac{2}{\\pi}}+2\\cdot2={\\frac{2}{\\pi}}+4$",
+            "$\\left({\\frac{x}{\\pi}}+2{x}\\right){\\frac{2}{x}}={\\frac{\\cancel{x}}{\\pi}}\\cdot{\\frac{2}{\\cancel{x}}}+2\\cancel{x}\\cdot\\frac{2}{\\cancel{x}}={\\frac{2}{\\pi}}+2\\cdot2={\\frac{2}{\\pi}}+4$",
             "**דרך ב' - הצבת מספרים:**",
             "נציב 1=x בביטוי ונקבל:",
             "$\\left({\\frac{x^{2}}{\\pi x}}+2x\\right)\\cdot2\\cdot\\left({x}^{-1}\\right)=\\left({\\frac{1^{2}}{\\pi\\cdot1}}+2\\cdot1\\right)\\cdot2\\cdot\\left(1^{-1}\\right)=\\left({\\frac{1}{\\pi}}+2\\right)\\cdot2\\cdot1={\\frac{2}{\\pi}}+2\\cdot2={\\frac{2}{\\pi}}+4$",
