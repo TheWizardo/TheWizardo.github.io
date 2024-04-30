@@ -146,10 +146,10 @@
         },
         "answer": 0,
         "options": [
-            "$x < -\\frac{9}{5}$ or $x > \\frac{9}{5}$",
-            "$x < -\\frac{9}{5}$ and $x > \\frac{9}{5}$",
-            "$x < \\frac{9}{5}$ or $x > -\\frac{9}{5}$",
-            "$x < \\frac{9}{5}$ and $x > -\\frac{9}{5}$"
+            "$x < -\\frac{9}{5} או x > \\frac{9}{5}$",
+            "$x < -\\frac{9}{5} ו- x > \\frac{9}{5}$",
+            "$x < \\frac{9}{5} או x > -\\frac{9}{5}$",
+            "$x < \\frac{9}{5} ו- x > -\\frac{9}{5}$"
         ],
         "explanation": [
             "To solve for x, we have two cases:",
