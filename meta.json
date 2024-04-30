@@ -25,14 +25,14 @@
             },
             {
                 "name": "משוואות",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "equal"
             },
             {
                 "name": "אי-שוויונות",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "greater-than-or-equal"
             },
             {
@@ -43,122 +43,122 @@
             },
             {
                 "name": "מספרים שלמים",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "numeric"
             },
             {
                 "name": "פעולות מומצאות",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "unicorn-variant"
             },
             {
                 "name": "תרגילים באותיות",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "alpha"
             },
             {
                 "name": "יחס",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "image-size-select-small"
             },
             {
                 "name": "בעיות כלליות",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "shape-outline"
             },
             {
                 "name": "אחוזים",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "percent-outline"
             },
             {
                 "name": "תנועה",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "car-hatchback"
             },
             {
                 "name": "הספק",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "alarm"
             },
             {
                 "name": "ממוצע",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "division"
             },
             {
                 "name": "חפיפה",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "set-center"
             },
             {
                 "name": "צירופים",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "abacus"
             },
             {
                 "name": "הסתברות",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "dice-multiple-outline"
             },
             {
                 "name": "הסקה מתרשים",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "chart-line"
             },
             {
                 "name": "ישרים",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "angle-acute"
             },
             {
                 "name": "משולשים",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "triangle-outline"
             },
             {
                 "name": "מרובעים",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "square-outline"
             },
             {
                 "name": "מצולעים",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "hexagon-outline"
             },
             {
                 "name": "מעגלים",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "circle-outline"
             },
             {
                 "name": "מערכת צירים",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "axis-arrow"
             },
             {
                 "name": "תלת-מימד",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "cube-outline"
             }
         ]
@@ -171,8 +171,8 @@
         "subsubjects": [
             {
                 "name": "השלמת משפטים",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "progress-question"
             },
             {
@@ -189,20 +189,20 @@
             },
             {
                 "name": "הבנה והסקה",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "chat-question-outline"
             },
             {
                 "name": "הבנת הנקרא",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "text-box-search-outline"
             },
             {
                 "name": "חיבור ",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "script-text-outline"
             }
         ]
@@ -221,20 +221,20 @@
             },
             {
                 "name": "Restatements",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "autorenew"
             },
             {
                 "name": "Vocabulary",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "chat-plus-outline"
             },
             {
                 "name": "Reading Comprehension",
-                "isTestSupported": true,
-                "isLearnSupported": true,
+                "isTestSupported": false,
+                "isLearnSupported": false,
                 "icon": "text-box-search-outline"
             }
         ]
