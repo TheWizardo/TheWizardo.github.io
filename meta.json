@@ -1,9 +1,17 @@
-{
-    "חשיבה כמותית": {
+[
+    {
         "name": "חשיבה כמותית",
         "icon": "function-variant",
         "time": 20,
         "questionCount": 20,
+        "color": {
+            "main": "#A43DA4",
+            "secondary": "#D266D2",
+            "accent": "#800080",
+            "complementary": "#85D6FF",
+            "text": "#FFFFFF"
+        },
+        "isLTR": false,
         "subsubjects": [
             {
                 "name": "שברים",
@@ -163,11 +171,19 @@
             }
         ]
     },
-    "חשיבה מילולית": {
+    {
         "name": "חשיבה מילולית",
         "icon": "script-text",
         "time": 20,
         "questionCount": 23,
+        "color": {
+            "main": "#6F9CEB",
+            "secondary": "#98B9F2",
+            "accent": "#306BAC",
+            "complementary": "#A5A2F6",
+            "text": "#FFFFFF"
+        },
+        "isLTR": false,
         "subsubjects": [
             {
                 "name": "השלמת משפטים",
@@ -188,10 +204,28 @@
                 "icon": "chat-plus-outline"
             },
             {
-                "name": "הבנה והסקה",
+                "name": "משלים והשוואות",
                 "isTestSupported": false,
                 "isLearnSupported": false,
-                "icon": "chat-question-outline"
+                "icon": "progress-question"
+            },
+            {
+                "name": "מחזק-מחליש",
+                "isTestSupported": false,
+                "isLearnSupported": false,
+                "icon": "arm-flex"
+            },
+            {
+                "name": "עריכת ניסוי",
+                "isTestSupported": false,
+                "isLearnSupported": false,
+                "icon": "flask-outline"
+            },
+            {
+                "name": "כללים ושיבוצים",
+                "isTestSupported": false,
+                "isLearnSupported": false,
+                "icon": "puzzle"
             },
             {
                 "name": "הבנת הנקרא",
@@ -207,11 +241,19 @@
             }
         ]
     },
-    "אנגלית": {
+    {
         "name": "English",
         "icon": "alphabetical-variant",
         "time": 20,
         "questionCount": 22,
+        "color": {
+            "main": "#A1CF6B",
+            "secondary": "#D5D887",
+            "accent": "#4F8C2C",
+            "complementary": "#E0C879",
+            "text": "#000000"
+        },
+        "isLTR": true,
         "subsubjects": [
             {
                 "name": "Sentence Completion",
@@ -239,4 +281,4 @@
             }
         ]
     }
-}
+]
