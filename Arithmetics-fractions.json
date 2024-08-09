@@ -4,7 +4,8 @@
             "text": "נתונה הסדרה הבאה:$1,\\frac{1}{2},\\frac{1}{4},\\frac{1}{8}\\dots$\n איזו מהטענות הבאות **אינה** נכונה?",
             "given": null,
             "pictures": [
-                "test1.png"
+                "test1.png",
+                "test2.png"
             ]
         },
         "answer": 3,
