@@ -33,7 +33,8 @@
             "text": "$\\frac{1}{\\frac{2}{\\frac{3}{4}}}=?$",
             "given": null,
             "pictures": [
-                "test2.png"
+                "test2.png",
+                "test1.png"
             ]
         },
         "answer": 0,
@@ -62,7 +63,8 @@
             "text": "$\\frac{1}{5}+\\frac{1}{4}-\\frac{1}{3}=?$",
             "given": null,
             "pictures": [
-                "test1.png"
+                "test1.png",
+                "test2.png"
             ]
         },
         "answer": 3,
@@ -88,7 +90,8 @@
             "text": "איזה מהמספרים הוא **הקטן** ביותר?",
             "given": null,
             "pictures": [
-                "test2.png"
+                "test2.png",
+                "test1.png"
             ]
         },
         "answer": 0,
