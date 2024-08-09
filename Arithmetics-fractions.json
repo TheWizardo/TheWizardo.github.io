@@ -1,6 +1,6 @@
 [
     {
-        "questionText": {
+        "question": {
             "text": "נתונה הסדרה הבאה:$1,\\frac{1}{2},\\frac{1}{4},\\frac{1}{8}\\dots$\n איזו מהטענות הבאות **אינה** נכונה?",
             "given": null,
             "pictures": [
@@ -28,7 +28,7 @@
         }
     },
     {
-        "questionText": {
+        "question": {
             "text": "$\\frac{1}{\\frac{2}{\\frac{3}{4}}}=?$",
             "given": null,
             "pictures": [
@@ -57,7 +57,7 @@
         }
     },
     {
-        "questionText": {
+        "question": {
             "text": "$\\frac{1}{5}+\\frac{1}{4}-\\frac{1}{3}=?$",
             "given": null,
             "pictures": [
@@ -83,7 +83,7 @@
         }
     },
     {
-        "questionText": {
+        "question": {
             "text": "איזה מהמספרים הוא **הקטן** ביותר?",
             "given": null,
             "pictures": [
